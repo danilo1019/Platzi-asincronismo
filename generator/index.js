@@ -16,3 +16,6 @@ function* iterate(array) {
 }
 const it =  iterate(['Danilo','Omar','Ana', 'Lucia', 'Juan','Jose']);
 console.log(it.next().value);
+console.log(it.next().value);
+console.log(it.next().value);
+console.log(it.next().value);
